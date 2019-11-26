@@ -1,0 +1,1 @@
+A Git log is a running record of commits. ... Commit Author metadata: The name and email address of the author of the commit. Commit Date metadata: A date timestamp for the time of the commit. Commit title/message: The overview of the commit as written in the commit message.
